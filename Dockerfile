@@ -1,5 +1,5 @@
 #FROM python:3.6.4
-FROM qtacore/alpine-py3.6
+FROM jfloff/alpine-python:3.6
 
 WORKDIR /dockerEnv
 
